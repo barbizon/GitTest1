@@ -8,5 +8,10 @@ namespace GitTest1
 {
     class Class1
     {
+        public Class1()
+        {
+            Console.WriteLine("aa");
+        }
+        
     }
 }
